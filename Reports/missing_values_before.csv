@@ -1,6 +1,4 @@
 Column,Values Missing
-ad_incurred,94296
-th_incurred,92582
 ws_incurred,92581
 bi_count,92581
 ws_count,92581
@@ -11,20 +9,22 @@ is_capped_incurred,92581
 incurred,92581
 capped_incurred,92581
 bi_incurred,92581
+ad_incurred,92581
 pd_incurred,92581
+th_incurred,92581
 primary_car_colour,16264
 transmission,777
 vehicle_make,776
-vehicle_age,336
 region,142
 net_earned_premium,22
 licence_test_date,7
-d1_residency_years,1
-d1_age,1
 vehicle_value,0
 gender,0
 vehicle_purchase_date,0
 d1_is_uk_resident,0
+d1_residency_years,0
+d1_age,0
+vehicle_age,0
 vehicle_annual_mileage,0
 id,0
 overnight_location,0
