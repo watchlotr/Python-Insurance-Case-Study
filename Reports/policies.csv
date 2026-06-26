@@ -1,4 +1,4 @@
-Start Year,Number of Policies
-2018,38539
-2019,49808
-2020,11653
+Start Year,Number of Policies,First Policy Date,Last Policy Date
+2018,38539,01/04/2018,31/12/2018
+2019,49808,01/01/2019,31/12/2019
+2020,11653,01/01/2020,31/03/2020
