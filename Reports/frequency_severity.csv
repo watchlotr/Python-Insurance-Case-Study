@@ -1,4 +1,4 @@
-Start Year,Claims,Years at Risk,Total Incurred,Frequency,Severity,Pure Premium,Net Written Premium,Added On
-2018,4065,34379.42,9942032.88,0.12,2445.76,289.18,380.11,90.92
-2019,3700,35402.26,9127966.39,0.1,2467.02,257.84,355.31,97.47
-2020,169,2177.8,537094.88,0.08,3178.08,246.62,350.22,103.6
+Policy Start Year,Total Claims,Frequency,Severity,Ave. Pure Premium,Ave. Written Premium,Ave. Added On
+2018,4065,0.12,2445.76,289.18,380.11,90.92
+2019,3700,0.10,2467.02,257.84,355.31,97.47
+2020,169,0.08,3178.08,246.62,350.22,103.60

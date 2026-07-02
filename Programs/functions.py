@@ -40,7 +40,7 @@ def frequency_calc(df, by_group, key = None):
     #If provided, replace the by_group values using an input dictionary
     if key:
         
-        df_out[by_group] = df_out[by_group].str.replace(key)
+        df_out[by_group] = df_out[by_group].replace(key)
     
 
     #Pivot the data frame 
@@ -94,7 +94,7 @@ def severity_calc(df, by_group, key = None):
     #If provided, replace the by_group values using an input dictionary
     if key:
         
-        df_out[by_group] = df_out[by_group].str.replace(key)
+        df_out[by_group] = df_out[by_group].replace(key)
     
 
     #Pivot the data frame 
